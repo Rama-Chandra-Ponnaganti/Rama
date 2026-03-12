@@ -82,7 +82,7 @@
 
 <header>
     <h1>🌿 Green Warriors 🌿</h1>
-    <p>Balancing Devotion & Ecology</p>
+    <p>(Balancing Devotion & Ecology)</p>
 </header>
 
 <nav>
@@ -97,9 +97,9 @@
     <h2>About Us</h2>
     <div class="card">
         <p>
-        Green Warriors is a community initiative dedicated to environmental awareness 
+        (Green Warriors is a community initiative dedicated to environmental awareness 
         and spiritual learning. We believe in protecting nature while spreading 
-        positivity and devotion.
+        positivity and devotion.)
         </p>
     </div>
 </section>
@@ -109,12 +109,12 @@
 
     <div class="card">
         <h3>📖 Vishnu Sahasranamam Teaching</h3>
-        <p>We teach Vishnu Sahasranamam freely to students and devotees.</p>
+        <p>(We teach Vishnu Sahasranamam freely to students and devotees.)</p>
     </div>
 
     <div class="card">
-        <h3>🌱 Ecology Awareness</h3>
-        <p>We promote tree planting, organic farming, and environmental balance.</p>
+        <h3>(🌱 Ecology Awareness</h3>
+        <p>We promote tree planting, organic farming, and environmental balance.)</p>
     </div>
 </section>
 
@@ -125,9 +125,9 @@
         <h3>🌿 Sample Poem</h3>
 
         <p>
-        Nature is our sacred home,<br>
-        Rivers sing and forests roam,<br>
-        Protect the Earth, keep it clean,<br>
+        (Nature is our sacred home,)<br>
+        (Rivers sing and forests roam),<br>
+        (Protect the Earth, keep it clean,)<br>
         Let our planet stay fresh and green.
         </p>
     </div>
